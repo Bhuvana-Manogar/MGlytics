@@ -2,7 +2,6 @@
 
 A three-page Power BI report that analyses every video on a YouTube channel (4,668 videos, 2016 to July 2026) to show how the channel has grown, where it is strongest, and what to test next.
 
-![Overview](images/page1_overview.png)
 
 ## What it answers
 
@@ -20,13 +19,15 @@ A three-page Power BI report that analyses every video on a YouTube channel (4,6
 | Growth Trends | Uploads vs average views per video, likes and comments per view, yearly summary |
 
 ### Page 1: Overview
-See the image at the top of this file.
+<img width="1311" height="745" alt="page1_overview" src="https://github.com/user-attachments/assets/fd78e76f-ff28-4339-8c20-17a9726bc8cb" />
+
 
 ### Page 2: Video Performance
-![Video Performance](images/page2_video_performance.png)
+<img width="1317" height="792" alt="page2_video_performance" src="https://github.com/user-attachments/assets/68b3d57e-add9-4a80-bba1-207ccb64b35b" />
+
 
 ### Page 3: Growth Trends
-![Growth Trends](images/page3_growth_trends.png)
+<img width="1292" height="738" alt="page3_growth_trends" src="https://github.com/user-attachments/assets/01dd57a5-34da-4c76-ad5b-32d3a92a05d0" />
 
 ## Key findings
 
@@ -81,6 +82,4 @@ CALCULATE(
 
 Open `youtube.pbix` in Power BI Desktop and click Home, then Refresh if the data source path needs updating.
 
-## Author
 
-Bhuvi, Data Analyst Intern
